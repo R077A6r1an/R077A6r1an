@@ -9,22 +9,22 @@ My language skills:
 ##### Java
 ##### JavaScript
 ##### HTML
-###### CSS
-###### Makefile
-###### bash
-###### x86/x64 nasm assember (understand, implement, translate)
-###### x86/x64 AT&T assember (understand, translate)
-###### x86/x64 intel assembler (understand, translate)
-###### arm assembler (understand)
+##### CSS
+##### Makefile
+##### bash
+##### x86/x64 nasm assember (understand, implement, translate)
+##### x86/x64 AT&T assember (understand, translate)
+##### x86/x64 intel assembler (understand, translate)
+##### arm assembler (understand)
 
 My terrains:
 
-###### osdev
-###### AI/Data Science
-###### Java Backend dev and process automatation
-###### Networking
-###### lowlevel hacking and experimenting (no cracking)
-###### driver reverse engeniering from source code (for writing own drivers)
+##### osdev
+##### AI/Data Science
+##### Java Backend dev and process automatation
+##### Network programming (Java)
+##### lowlevel hacking and experimenting (no cracking)
+##### driver reverse engeniering from source code (for writing own drivers)
 
 
 Currently, I'm working on a own OS, so I'm not available and 24/7 working on it.
