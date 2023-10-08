@@ -14,10 +14,10 @@ I'm only working on Linux, preffered OpenSUSE or Debian. Since I found Linux, Wi
 ##### CSS
 ##### Makefile
 ##### bash
-##### x86/x64 nasm assember (understand, implement, translate)
-##### x86/x64 AT&T assember (understand, translate)
-##### x86/x64 intel assembler (understand, translate)
-##### arm assembler (understand)
+##### x86/x64 nasm assember
+##### x86/x64 AT&T assember
+##### x86/x64 intel assembler
+##### arm assembler
 
 # My terrains:
 
