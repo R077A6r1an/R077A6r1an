@@ -9,6 +9,7 @@ I'm only working on Linux, preffered OpenSUSE or Debian. Since I found Linux, Wi
 ##### C/C++
 ##### Python
 ##### Java
+##### Kotlin
 ##### JavaScript
 ##### HTML
 ##### CSS
