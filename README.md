@@ -29,6 +29,3 @@ I'm only working on Linux, preffered OpenSUSE or Debian. Since I found Linux, Wi
 ##### lowlevel hacking and experimenting (no cracking)
 ##### driver reverse engeniering from source code (for writing own drivers)
 ##### compiler construction
-
-
-### Currently, I'm working on a own OS, so I'm not available and 24/7 working on it.
