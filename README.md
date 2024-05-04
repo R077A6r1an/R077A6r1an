@@ -6,26 +6,28 @@ I'm only working on Linux, preffered OpenSUSE or Debian. Since I found Linux, Wi
 
 # My language skills:
 
-##### C/C++
-##### Python
-##### Java
-##### Kotlin
-##### JavaScript
-##### HTML
-##### CSS
-##### Makefile
-##### bash
-##### x86/x64 nasm assember
-##### x86/x64 AT&T assember
-##### x86/x64 intel assembler
-##### arm assembler
++ C/C++
++ Python
++ Java
++ Kotlin
++ JavaScript
++ HTML
++ CSS
++ PHP
++ Makefile
++ bash
++ x86/x64 nasm assember
++ x86/x64 AT&T assember
++ x86/x64 intel assembler
++ arm assembler
 
 # My terrains:
 
-##### osdev
-##### AI/Data Science
-##### Java Backend dev and process automatation
-##### Network programming (Java)
-##### lowlevel hacking and experimenting (no cracking)
-##### driver reverse engeniering from source code (for writing own drivers)
-##### compiler construction
++ osdev
++ AI/Data Science
++ Java Backend dev and process automatation
++ Network programming and protocol reverse engeniering
++ Web-frontend development
++ lowlevel hacking and experimenting (no cracking)
++ driver reverse engeniering from source code (for writing own drivers)
++ compiler construction
