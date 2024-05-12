@@ -11,6 +11,7 @@ I'm only working on Linux, preffered OpenSUSE or Debian. Since I found Linux, Wi
 + Java
 + Kotlin
 + JavaScript
++ TypeScript
 + HTML
 + CSS
 + PHP
@@ -27,7 +28,7 @@ I'm only working on Linux, preffered OpenSUSE or Debian. Since I found Linux, Wi
 + AI/Data Science
 + Java Backend dev and process automatation
 + Network programming and protocol reverse engeniering
-+ Web-frontend development
++ Web-frontend development and nodejs
 + lowlevel hacking and experimenting (no cracking)
 + driver reverse engeniering from source code (for writing own drivers)
 + compiler construction
